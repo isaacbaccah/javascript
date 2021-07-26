@@ -1,12 +1,7 @@
-// String, Numbers, Boolean, null, undefined
+// Arrays - variables that hold multiple values
 
-const name = 'John';
-const age = 30;
+const fruits = ['apples', 'oranges', 'pears'];
 
 
-// Concatenation
-console.log('My name is ' + name + ' and I am ' + age);
 
-// Template String
-
-console.log('My name is ${age} and I am ${name}');
+console.log(fruits);
